@@ -219,7 +219,9 @@ a.nav-link:hover, a.nav-link:active {
   
 /* Section background mode
     ============================= */
-
+.header, .section-hero, .section-results {
+  color: var(--color-white);
+} 
 
 /* SECTION HERO
     ============================= */
